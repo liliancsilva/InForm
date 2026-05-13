@@ -87,7 +87,7 @@ Além da automação em si, o projeto também serviu como prática de desenvolvi
 
 ## Observações
 
-Este repositório contém uma versão adaptada para publicação pública, sem informações sensíveis ou dados internos da empresa.
+Este repositório contém uma versão adaptada para publicação, sem informações sensíveis ou dados internos da empresa.
 
 O desenvolvimento contou com apoio de IA como ferramenta auxiliar durante a implementação do projeto.
 
