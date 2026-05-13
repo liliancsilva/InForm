@@ -90,3 +90,11 @@ Além da automação em si, o projeto também serviu como prática de desenvolvi
 Este repositório contém uma versão adaptada para publicação pública, sem informações sensíveis ou dados internos da empresa.
 
 O desenvolvimento contou com apoio de IA como ferramenta auxiliar durante a implementação do projeto.
+
+---
+
+## Licença
+
+© 2026 Lilian Silva. Todos os direitos reservados.
+
+Este projeto é disponibilizado publicamente apenas para fins de demonstração de portfólio. É proibida a cópia, modificação ou uso comercial sem autorização prévia e por escrito da autora. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
