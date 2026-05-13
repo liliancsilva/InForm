@@ -95,6 +95,6 @@ O desenvolvimento contou com apoio de IA como ferramenta auxiliar durante a impl
 
 ## Licença
 
-© 2026 Lilian Silva. Todos os direitos reservados.
+© 2026 Lílian Silva. Todos os direitos reservados.
 
 Este projeto é disponibilizado publicamente apenas para fins de demonstração de portfólio. É proibida a cópia, modificação ou uso comercial sem autorização prévia e por escrito da autora. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
